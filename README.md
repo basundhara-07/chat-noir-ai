@@ -51,7 +51,3 @@ python3 chatnoirwbd.py
 
 Open the local Gradio URL printed in your terminal.
 
-## ⭐️Security
-
-API keys are loaded from environment variables. Never commit your `.env` file or publish API credentials.
-
